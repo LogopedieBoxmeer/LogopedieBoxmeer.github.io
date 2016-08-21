@@ -98,12 +98,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Logopedieboxmeer.nl/images/geplakte-svg-2165144-x-1833.svg</loc>
-    <lastmod>2016-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://Logopedieboxmeer.nl/images/logopedie%20boxmeer%20logo%20origineel.png</loc>
     <lastmod>2016-08-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -111,6 +105,12 @@
   </url>
   <url>
     <loc>http://Logopedieboxmeer.nl/images/logopedie%20boxmeer%20fietstas-02.png</loc>
+    <lastmod>2016-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Logopedieboxmeer.nl/images/geplakte-svg-2165144-x-1833.svg</loc>
     <lastmod>2016-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

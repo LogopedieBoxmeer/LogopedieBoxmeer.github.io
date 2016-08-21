@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Logopedieboxmeer.nl" resolutions="1x" timestamp="1471795263643">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Logopedieboxmeer.nl" resolutions="1x" timestamp="1471799229402">
   <folder name="css">
     <file name="site_global.css" crc="288226911"/>
-    <file name="master_a-stramien.css" crc="3972084399" ref="index"/>
-    <file name="index.css" crc="4021865194" ref="index"/>
+    <file name="master_a-stramien.css" crc="89140038" ref="index"/>
+    <file name="index.css" crc="497281705" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="animatie-logopedie-intro2">
@@ -83,9 +83,9 @@
     <file name="touchswipe.js" crc="474750357" ref="phone>index"/>
     <file name="jquery.watch.js" crc="3842844514" ref="phone>index:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="phone>index"/>
-    <file name="form_check.php" crc="121412709" ref="phone>index"/>
-    <file name="form_throttle.php" crc="4268640971" ref="phone>index"/>
-    <file name="form_process.php" crc="444429785" ref="phone>index"/>
+    <file name="form_check.php" crc="121412709" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="phone>index:index"/>
+    <file name="form_process.php" crc="444429785" ref="phone>index:index"/>
     <file name="form-u1188.php" crc="436278035" ref="phone>index"/>
     <file name="jquery.scrolleffects.js" crc="511146689" ref="phone>index:index"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:index"/>
@@ -93,7 +93,7 @@
     <file name="form-u449.php" crc="263834902" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="180659686" ref="phone>index"/>
+    <file name="favicon.ico" crc="4081655864" ref="phone>index:index"/>
     <file name="u3900-4.png" crc="4031308201" ref="phone>index"/>
     <file name="u3908-4.png" crc="3855999151" ref="phone>index"/>
     <file name="u3880-4.png" crc="4230528079" ref="phone>index"/>
@@ -105,8 +105,8 @@
     <file name="witte ondergrond-01.png" crc="81791040" seo="true" ref="phone>index"/>
     <file name="olivaar.png" crc="3918756900" ref="phone>index:index"/>
     <file name="ooievaar.png" crc="3852165229" seo="true" ref="phone>index:index"/>
-    <file name="geplakte-svg-2165144-x-183.svg" crc="281649906" seo="true" ref="phone>index:index"/>
-    <file name="geplakte svg 2165144 x 183_poster_.png" crc="404833999" ref="phone>index"/>
+    <file name="geplakte-svg-2165144-x-183.svg" crc="204294228" seo="true" ref="phone>index:index"/>
+    <file name="geplakte svg 2165144 x 183_poster_.png" crc="3957717920" ref="phone>index:index"/>
     <file name="geplakte-svg-580114-x-410.svg" crc="184618617" seo="true" ref="phone>index"/>
     <file name="geplakte svg 580114 x 410_poster_.png" crc="3822897156" ref="phone>index"/>
     <file name="landscape-01.png" crc="238318034" ref="phone>index:index"/>
@@ -118,12 +118,12 @@
     <file name="eend spreekt-u1230-fr.png" crc="3931563664" ref="phone>index"/>
     <file name="kip spreekt-u1231-fr.png" crc="105456513" ref="phone>index"/>
     <file name="geplakte-svg-2165.svg" crc="9017107" seo="true" ref="phone>index:index"/>
-    <file name="geplakte svg 2165_poster_.png" crc="3958011238" ref="phone>index"/>
+    <file name="geplakte svg 2165_poster_.png" crc="3958011238" ref="phone>index:index"/>
     <file name="prelogopedie icon-u1225-fr.png" crc="3926403786" ref="phone>index"/>
-    <file name="geplakte-svg-2165144-x-1832.svg" crc="204294228" seo="true" ref="phone>index:index"/>
-    <file name="geplakte svg 2165144 x 183_poster_2.png" crc="4141837493" ref="phone>index"/>
+    <file name="geplakte-svg-2165144-x-1832.svg" crc="281649906" seo="true" ref="phone>index:index"/>
+    <file name="geplakte svg 2165144 x 183_poster_2.png" crc="4172173888" ref="phone>index:index"/>
     <file name="geplakte-svg-2165144-x-173.svg" crc="277205207" seo="true" ref="phone>index:index"/>
-    <file name="geplakte svg 2165144 x 173_poster_.png" crc="3759852219" ref="phone>index"/>
+    <file name="geplakte svg 2165144 x 173_poster_.png" crc="3759852219" ref="phone>index:index"/>
     <file name="u1208-17.png" crc="328274792" ref="phone>index"/>
     <file name="u1208-17-r.png" crc="374499752" ref="phone>index"/>
     <file name="u1208-17-m.png" crc="139047130" ref="phone>index"/>
@@ -133,8 +133,6 @@
     <file name="dtltraining.png" crc="452721756" seo="true" ref="phone>index:index"/>
     <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
     <file name="landscape-06.png" crc="94697976" ref="index"/>
-    <file name="geplakte-svg-2165144-x-1833.svg" crc="204294228" seo="true" ref="index"/>
-    <file name="geplakte svg 2165144 x 183_poster_3.png" crc="3957717920" ref="index"/>
     <file name="vogeltje animatie.png" crc="3831731030" ref="index"/>
     <file name="u463-17.png" crc="328274792" ref="index"/>
     <file name="u463-17-r.png" crc="374499752" ref="index"/>
@@ -145,6 +143,8 @@
     <file name="kip spreekt.png" crc="27506756" ref="index"/>
     <file name="logopedie boxmeer logo origineel.png" crc="3994054944" seo="true" ref="index"/>
     <file name="logopedie boxmeer fietstas-02.png" crc="252362311" seo="true" ref="index"/>
+    <file name="geplakte-svg-2165144-x-1833.svg" crc="204294228" seo="true" ref="index"/>
+    <file name="geplakte svg 2165144 x 183_poster_3.png" crc="4141837493" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -153,5 +153,5 @@
     </folder>
     <file name="index.html" crc="4085414716" seo="true" mt="1471351082958" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3921961014" seo="true" mt="1471794033174" redirect="true"/>
+  <file name="index.html" crc="4077216777" seo="true" mt="1471798143388" redirect="true"/>
 </manifest>
